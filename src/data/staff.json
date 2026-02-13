@@ -1,0 +1,79 @@
+[
+  {
+    "name": "The Doctor",
+    "role": "Founder & Owner",
+    "rank": "Commander General",
+    "section": "Administration",
+    "bio": "The Doctor is the visionary behind Audacity, leading the charge in creating a vibrant community for gamers. With a passion for esports and a knack for building connections, he is dedicated to fostering a welcoming environment where players can thrive and compete at their best."
+  },
+ {
+    "name": "Albus",
+    "section": "Minecraft",
+    "rank": "Commander",
+    "role": "Minecraft Commander & Modpack Developer",
+    "bio": "Albus is the mastermind behind Audacity's Minecraft community, crafting unique modpacks and organizing events that bring players together. With a deep love for all things Minecraft, Albus is dedicated to creating an engaging and fun experience for players of all skill levels, ensuring that everyone has a blast exploring the blocky world of Minecraft. He's also an avid helldiver player, often seen spreading democracy on the battlefront of Helldivers."
+  },
+  {
+    "name": "N3J",
+    "section": "Overwatch E-Sports",
+    "rank": "Captain",
+    "role": "Head Manager & Overwatch Captain",
+    "bio": "N3J is the fearless leader of Audacity's Overwatch teams, guiding them to victory with his strategic prowess and unwavering dedication. As the head manager, he oversees all aspects of the teams' operations, ensuring that they have the support and resources they need to succeed. With a competitive spirit and a passion for esports, N3J is committed to leading Audacity's Overwatch teams to new heights and fostering a strong sense of camaraderie among players."
+  },
+  {
+    "name": "Aardvark",
+    "section": "Overwatch E-Sports",
+    "rank": "Sergeant Major",
+    "role": "Overwatch Manager & Captain",
+    "bio": "Aardvark is a key figure in Audacity's Overwatch teams, providing leadership and support to ensure the teams perform at their best. With a deep understanding of the game and a commitment to teamwork, Aardvark plays a crucial role in maintaining the competitive edge and fostering a positive team environment." 
+  },
+  {
+    "name": "Criffle",
+    "section": "Overwatch E-Sports",
+    "rank": "Corporal",
+    "role": "Overwatch Coach",
+    "bio": "Criffle is the strategic mind behind Audacity Fortitude and Fidelity, providing expert coaching and guidance to help players reach their full potential. With a keen eye for detail and a passion for the game, Criffle is dedicated to developing effective strategies and fostering a culture of continuous improvement within the teams."
+  },
+  {
+    "name": "Undercover",
+    "section": "Overwatch E-Sports",
+    "rank": "Corporal",
+    "role": "Overwatch Coach",
+    "bio": "Undercover is the tactical genius behind Audacity Reverence, offering expert coaching and support to help players excel in their roles. With a deep understanding of the game and a commitment to player development, Undercover is dedicated to helping the team achieve success and fostering a positive and competitive environment for all players."
+  },
+  {
+    "name": "Elon",
+    "section": "Overwatch E-Sports",
+    "rank": "Corporal",
+    "role": "Overwatch Coach",
+    "bio": "Elon is an all rounder for overwatch coaching, providing valuable insights and support to all of Audacity's Overwatch teams. With a passion for the game and a commitment to player development, Elon is dedicated to helping players improve their skills and achieve success in the competitive scene."
+  },
+  {
+    "name": "Scath",
+    "section": "Creative",
+    "rank": "Second Lieutenant",
+    "role": "Graphic Designer",
+    "bio": "Scath is the creative force behind Audacity's visual identity, crafting stunning graphics and designs that capture the spirit of the community. With a keen eye for detail and a passion for creativity, Scath ensures that every visual element reflects the vibrant and dynamic nature of Audacity."
+  },
+  {
+    "name": "TBD",
+    "section": "Overwatch E-Sports",
+    "rank": "Sergeant Major",
+    "role": "Overwatch Manager",
+    "bio": "We are actively seeking a dedicated and passionate individual to join our Overwatch E-Sports team as a manager. This role involves overseeing the operations of our competitive teams, providing support and guidance to players, and helping to foster a positive and competitive environment. If you have a strong understanding of Overwatch, excellent organizational skills, and a passion for esports, we encourage you to apply and become a key part of our growing community."
+  },
+  {
+    "name": "TBD",
+    "section": "Administration",
+    "rank": "Major",
+    "role": "Community Manager",
+    "bio": "We are currently looking for a dedicated and passionate individual to join our team as a Community Manager. This role involves engaging with our community members, fostering a welcoming and inclusive environment, and helping to grow our player base across all sections. If you have excellent communication skills, a passion for gaming, and a desire to build strong relationships within the community, we encourage you to apply and become an integral part of our vibrant gaming community."
+  },
+  {
+    "name": "TBD",
+    "section": "FFXIV",
+    "rank": "Sergeant Major",
+    "role": "FFXIV Recruiter",
+    "bio": "We are currently looking for a dedicated and passionate individual to join our Final Fantasy XIV community as a recruiter. This role involves reaching out to potential members, fostering a welcoming environment, and helping to grow our FFXIV player base. If you have a strong understanding of FFXIV, excellent communication skills, and a passion for building communities, we encourage you to apply and become an integral part of our vibrant gaming community."
+  }
+ ]

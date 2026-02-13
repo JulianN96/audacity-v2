@@ -1,0 +1,79 @@
+[
+  {
+    "teamname": "Audacity's Reverence",
+    "teamname-short": "ADCT Reverence",
+    "ELO": "4.2k",
+    "region": "EU",
+    "manager": "N3J",
+    "coach": "Undercover",
+    "captain": "N3J",
+    "roster": {
+      "tank": "N3J",
+      "dps": "Ozze",
+      "dps2": "GZimmer",
+      "support": "Octo",
+      "support2": "Peevelix",
+      "substitute": "Abbe"
+    },
+    "colour": "red",
+    "logo": "../assets/overwatch/reverence.png"
+  },
+  
+  {
+    "teamname": "Audacity's Vitality",
+    "teamname-short": "ADCT Vitality",
+    "ELO": "3.8k",
+    "region": "EU",
+    "manager": "The Doctor",
+    "coach": "",
+    "captain": "",
+    "roster": {
+      "tank": "Trialing",
+      "dps": "Hasoyria",
+      "dps2": "Derryn",
+      "support": "Peevelix",
+      "support2": "Accio",
+      "substitute": "Khurt"
+    },"colour": "black",
+    "logo": "../assets/overwatch/teamfortitudelogo.png"
+  },
+    {
+    "teamname": "Audacity's Fidelity",
+    "teamname-short": "ADCT Fidelity",
+    "ELO": "3.5k",
+    "region": "EU",
+    "manager": "Aardvark",
+    "coach": "Criffle",
+    "captain": "Aardvark",
+    "roster": {
+      "tank": "Aardvark",
+      "dps": "Jack",
+      "dps2": "Marlon",
+      "support": "Phantom",
+      "support2": "Mazda RX-8",
+      "substitute": ""
+    },
+    "colour": "blue",
+    "logo": "../assets/overwatch/teamfortitudelogo.png"
+  },
+    {
+    "teamname": "Audacity's Fortitude",
+    "teamname-short": "ADCT Fortitude",
+    "ELO": "3.2k",
+    "region": "EU",
+    "manager": "Aardvark",
+    "coach": "Criffle",
+    "captain": "",
+    "roster": {
+      "tank": "Trialing...",
+      "dps": "Rockybird",
+      "dps2": "Carrot",
+      "support": "Lavenderre",
+      "support2": "Juvor",
+      "substitute": "KBenji"
+    },
+    "colour": "purple",
+    "logo": "../assets/overwatch/teamfortitudelogo.png"
+  }
+
+]
