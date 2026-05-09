@@ -2,7 +2,7 @@
   {
     "teamname": "Audacity's Reverence",
     "teamname-short": "ADCT Reverence",
-    "ELO": "4.2k",
+    "ELO": "Advanced Division",
     "region": "EU",
     "manager": "N3J",
     "coach": "Undercover",
@@ -11,31 +11,34 @@
       "tank": "N3J",
       "dps": "Ozze",
       "dps2": "GZimmer",
-      "support": "Octo",
+      "support": "Nickotine",
       "support2": "Peevelix",
-      "substitute": "Abbe"
+      "substitute": "Martin",
+      "substitute1": "Aceoka",
+      "substitute2": "Octo",
+      "substitute3": "Quasar"
     },
     "colour": "red",
-    "logo": "../assets/overwatch/reverence.png"
+    "logo": "../assets/overwatch/reverencelogo.png"
   },
   
   {
     "teamname": "Audacity's Vitality",
     "teamname-short": "ADCT Vitality",
-    "ELO": "3.8k",
+    "ELO": "4.2k",
     "region": "EU",
     "manager": "The Doctor",
-    "coach": "",
+    "coach": "Coach Zero",
     "captain": "",
     "roster": {
-      "tank": "Trialing",
-      "dps": "Hasoyria",
-      "dps2": "Derryn",
-      "support": "Peevelix",
+      "tank": "Paronman",
+      "dps": "Enxy",
+      "dps2": "Zipto",
+      "support": "Ibi",
       "support2": "Accio",
-      "substitute": "Khurt"
+      "substitute": "Leupie"
     },"colour": "black",
-    "logo": "../assets/overwatch/teamfortitudelogo.png"
+    "logo": "../assets/overwatch/vitalitylogo.png"
   },
     {
     "teamname": "Audacity's Fidelity",
@@ -46,15 +49,15 @@
     "coach": "Criffle",
     "captain": "Aardvark",
     "roster": {
-      "tank": "Aardvark",
-      "dps": "Jack",
+      "tank": "Trialing...",
+      "dps": "Aardvark",
       "dps2": "Marlon",
-      "support": "Phantom",
+      "support": "Mega",
       "support2": "Mazda RX-8",
       "substitute": ""
     },
     "colour": "blue",
-    "logo": "../assets/overwatch/teamfortitudelogo.png"
+    "logo": "../assets/overwatch/fidelity-logo.png"
   },
     {
     "teamname": "Audacity's Fortitude",
@@ -62,12 +65,12 @@
     "ELO": "3.2k",
     "region": "EU",
     "manager": "Aardvark",
-    "coach": "Criffle",
+    "coach": "Trailing...",
     "captain": "",
     "roster": {
-      "tank": "Trialing...",
+      "tank": "Zee",
       "dps": "Rockybird",
-      "dps2": "Carrot",
+      "dps2": "Aisuru",
       "support": "Lavenderre",
       "support2": "Juvor",
       "substitute": "KBenji"

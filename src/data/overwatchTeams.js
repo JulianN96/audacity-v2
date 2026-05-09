@@ -88,6 +88,20 @@ const toSlug = (value) =>
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "");
 
+const collectSubstitutes = (roster) => {
+  if (!roster) return [];
+  const subs = [];
+  const main = firstNonEmpty(roster.substitute);
+  if (main) subs.push(main);
+  let i = 1;
+  while (Object.prototype.hasOwnProperty.call(roster, `substitute${i}`)) {
+    const sub = firstNonEmpty(roster[`substitute${i}`]);
+    if (sub) subs.push(sub);
+    i++;
+  }
+  return subs;
+};
+
 const baseTeams = rawTeams.map((team, index) => {
   const name = fallbackValue(team.teamname, `Team ${index + 1}`);
   const shortName = fallbackValue(team["teamname-short"], name);
@@ -126,7 +140,7 @@ const baseTeams = rawTeams.map((team, index) => {
       dps2: fallbackValue(team.roster?.dps2),
       support: fallbackValue(team.roster?.support),
       support2: fallbackValue(team.roster?.support2),
-      substitute: fallbackValue(team.roster?.substitute, "None"),
+      substitutes: collectSubstitutes(team.roster),
     },
     logo: resolveTeamLogo(
       firstNonEmpty(

@@ -40,7 +40,12 @@ export default function OverwatchTeam() {
     { role: "DPS", player: team.roster.dps2, slotType: "core", avatarTone: "dps" },
     { role: "Support", player: team.roster.support, slotType: "core", avatarTone: "support" },
     { role: "Support", player: team.roster.support2, slotType: "core", avatarTone: "support" },
-    { role: "Substitute", player: team.roster.substitute, slotType: "sub", avatarTone: "sub" },
+    ...team.roster.substitutes.map((sub) => ({
+      role: "Substitute",
+      player: sub,
+      slotType: "sub",
+      avatarTone: "sub",
+    })),
   ];
 
   const staffRows = [
@@ -95,8 +100,8 @@ export default function OverwatchTeam() {
             <strong>{activeCoreCount}/5</strong>
           </div>
           <div className="ow-stat-row">
-            <span>Substitute</span>
-            <strong>{team.roster.substitute}</strong>
+            <span>Substitutes</span>
+            <strong>{team.roster.substitutes.length || "None"}</strong>
           </div>
         </aside>
 
